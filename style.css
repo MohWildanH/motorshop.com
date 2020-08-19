@@ -1,0 +1,157 @@
+.gam{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+.gam img{
+    width: 600px;
+}
+.jud{
+    color: white;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+left: 50px;
+top: 0px;
+}
+.gam-1{
+    position: absolute;
+    top: 30px;
+    left: 12px;
+}
+.gam-1 img{
+    width: 25px;
+}
+.item{
+    position : absolute;
+    right: 100px;
+    top: 80px;
+}
+.item img{
+    width: 500px;
+}
+.search{
+    position: absolute;
+    right: 130px;
+    overflow: hidden;
+    margin: 8px 0;
+    top: 15px;
+    border-bottom: 2px solid black;
+}
+.search input{
+    background: none;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-size: 17PX;
+    float: left;
+    width: 350px;
+}
+.home{
+    position: absolute;
+    right: 20px;
+    top: 22px;
+    color:#36455A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 8px;
+}
+.cd{
+    position: absolute;
+    right: 100px;
+    top: 30px;
+}
+.cd img{
+    width: 18px;
+}
+.aaa{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 140px;
+    left: 90px;
+    color: white;
+}
+.tipe{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 230px;
+    left: 90px;
+}
+.beli{
+    border: 0px solid white;
+    background-color:white;
+    position: absolute;
+    bottom: 180px;
+    height: 40px;
+    left: 90px;
+    width: 200px;
+    cursor: pointer;
+}
+.beli span{
+    position: absolute;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    top: 6px;
+    color:#36455A;
+    left: 15px;
+}
+.p{
+    position: absolute;
+    top: 13px;
+    right: 30px;
+}
+.home a{
+    text-decoration: none;
+    color: #36455A;
+}
+.p img{
+    width: 27px;
+}
+.aaa a{
+    text-decoration: none;
+    color: white;
+}
+.v{
+    position: absolute;
+    top: 436px;
+    height: 40px;
+    left: 295px;
+    width: 60px;
+    border: 0px solid transparent;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: white;
+}
+.d img{
+   width: 25px;
+}
+.d{
+    position: absolute;
+    top: 8px;
+    left: 13px;
+}
+.q{
+ position: absolute;
+ left: 0px;
+ bottom: 0px;
+}
+.q img{
+    width: 250px;
+}
+.k{
+    position: absolute;
+    left: 450px;
+    top: 390px;
+}
+.k img{
+    width: 200px;
+}
+.cf{
+    position: absolute;
+    right: 520px;
+    top: 30px;
+}
+.cf img{
+    width: 18px;
+}
